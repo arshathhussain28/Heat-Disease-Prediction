@@ -1,1 +1,1 @@
-# Heat-Disease-Prediction
+# Predicting-Heart-Disease
